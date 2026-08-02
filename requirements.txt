@@ -1,0 +1,5 @@
+Pillow==12.3.0
+torch==2.13.0
+transformers==5.14.1
+streamlit==1.60.0
+gunicorn==23.0.0
